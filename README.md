@@ -18,6 +18,10 @@ I'm an exDevOps-engineer & now I'm looking for a job as Junior Backend Python De
   - Vue a little 
   - RoR a little (I've writed some Redmine plugins)
   - Shell scripts by Bash or Powershell
+- Deployment
+  - Docker
+  - Kubernetes
+  - Helm
 - Infrastructure as Code
   - Ansible
   - Terraform
